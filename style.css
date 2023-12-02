@@ -13,7 +13,8 @@ body{
   border: none;
   height: 100px;
   
-  border-radius: 4px;
+  border-radius: 8px;
+  box-shadow:2px 2px 2px whitesmoke;
 }
 body{
   display: flex;
@@ -36,6 +37,6 @@ body{
 .des{
   font-size: 30px;
   font-weight: bold;
-  -webkit-text-stroke: 1px white;
+  color: white;
 
 }
