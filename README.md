@@ -19,7 +19,7 @@ Heading color is "#FAB201"
 
 *add the below styling property to the game's heading*
 
-`-webkit-text-stroke: 5px white;`
+`-`
 
 Here is the [link](https://css-tricks.com/adding-stroke-to-web-text/) if you want to learn more about text stroke.
 
